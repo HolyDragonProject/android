@@ -6,7 +6,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the OmniDragon trees, use a command like this:
 
-    repo init -u git://github.com/holydragonproject/android.git -b hdo
+    repo init -u git://gitlab.com/holyangel/holydragonproject.git -b hdo
 
 Then to sync up:
 
