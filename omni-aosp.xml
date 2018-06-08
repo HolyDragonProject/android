@@ -99,7 +99,7 @@
   <project path="system/libhidl" name="android_system_libhidl" remote="omnirom" revision="android-8.1" />
   <project path="system/media" name="android_system_media" remote="omnirom" revision="android-8.1" />
   <project path="system/nfc" name="android_system_nfc" remote="omnirom" revision="android-8.1" />
-  <project path="system/netd" name="android_system_netd" remote="omnirom" revision="android-8.1" />
+  <project path="system/netd" name="android_system_netd" remote="hdp" revision="hdo" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="hdp" revision="hdo" />
   <project path="system/vold" name="android_system_vold" remote="hdp" revision="hdo" />
   <project path="system/hardware/interfaces" name="android_system_hardware_interfaces" remote="omnirom" revision="android-8.1" />
